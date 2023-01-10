@@ -9,7 +9,7 @@ public class ArithmaticOperation {
 		int multi=num1*num2;
 		int div=num1/num2;
 		int mod=num1%num2;
-		System.out.println("Addition Value:"+add+" Subtraction :"+sub+" Multiplication :"+multi+" Divition :"+div+" modulus :"+mod);
+		System.out.println("Addition Value 1:"+add+" Subtraction :"+sub+" Multiplication :"+multi+" Divition :"+div+" modulus :"+mod);
 		
 	}
 
